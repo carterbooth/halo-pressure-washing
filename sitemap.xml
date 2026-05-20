@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://halopressurewashing.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- SILO 1: Location Pages -->
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-cary-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-apex-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-holly-springs-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-fuquay-varina-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-garner-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-angier-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- SILO 2: Service Pages -->
+  <url>
+    <loc>https://halopressurewashing.com/house-washing-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/driveway-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/concrete-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/roof-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/gutter-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/deck-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/fence-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/patio-cleaning-raleigh-nc.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SILO 3: Audience Pages -->
+  <url>
+    <loc>https://halopressurewashing.com/commercial-pressure-washing-raleigh.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-for-real-estate-agents.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/pressure-washing-property-managers-raleigh.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SILO 4: Informational Pages -->
+  <url>
+    <loc>https://halopressurewashing.com/how-much-does-pressure-washing-cost-raleigh.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://halopressurewashing.com/how-often-should-you-pressure-wash-your-house.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
