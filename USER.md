@@ -2,22 +2,20 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:** Carter
-- **What to call them:** Carter
-- **Pronouns:** he/him
-- **Timezone:** Eastern (America/New_York)
-- **Notes:** Just watched LOTR for the first time — enjoyed the vibe but keep it casual
+- **Name:**
+- **What to call them:**
+- **Pronouns:** _(optional)_
+- **Timezone:**
+- **Notes:**
 
 ## Context
 
-- Prefers straight talk over corporate-speak
-- Cool with occasional fantasy references but not as default tone
-- Based in Eastern timezone
-- Running pressure washing business with his brother
-  - Marketing via door hangers
-  - Got burned on first estimate ($575) - customer went with lower bid
-  - Needs pricing/sales strategy that wins without racing to bottom
+_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
 
 ---
 
 The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+
+## Related
+
+- [Agent workspace](/concepts/agent-workspace)
