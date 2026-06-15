@@ -1,9 +1,6 @@
-```markdown
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+# Heartbeat Tasks
 
-# Add tasks below when you want the agent to check something periodically.
-```
-
-## Related
-
-- [Heartbeat config](/gateway/config-agents)
+## Check for pending leads
+- Check backend for new pending leads
+- Notify Carter on Telegram if new leads need approval
+- Track notified leads to avoid duplicates
